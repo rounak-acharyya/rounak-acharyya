@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Rounak Acharyya
 
-<!--
-**rounak-acharyya/rounak-acharyya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate  
+🤖 Machine Learning & Data Science Enthusiast  
+📊 Passionate about building data-driven systems and solving real-world problems with AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a Computer Science student deeply interested in **Machine Learning, Data Science, and AI systems**.  
+I enjoy working with **data pipelines, predictive models, and intelligent systems** that transform raw data into actionable insights.
+
+My interests lie in:
+
+- Machine Learning & Predictive Modeling
+- Data Analysis & Feature Engineering
+- AI Applications in Real-World Systems
+- Scalable ML Pipelines
+- Precision Agriculture & Smart Systems
+
+
+
+## 🧩 Interests
+
+Beyond coding, I enjoy:
+
+- Solving algorithmic problems
+- Exploring new ML research papers
+- Building data-driven tools
+- Learning emerging AI technologies
+- Design
+⭐ *Always exploring how data and machine learning can create intelligent systems that solve meaningful problems.*
