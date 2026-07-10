@@ -17,8 +17,6 @@ My interests lie in:
 - Data Analysis & Feature Engineering
 - AI Applications in Real-World Systems
 - Scalable ML Pipelines
-- Precision Agriculture & Smart Systems
-
 
 
 ## 🧩 Interests
