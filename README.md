@@ -2,7 +2,7 @@
 
 🎓 Computer Science Undergraduate  
 🤖 Machine Learning & Data Science Enthusiast  
-📊 Passionate about building data-driven systems and solving real-world problems with AI.
+📊 Passionate about building data-driven systems and solving real-world problems.
 
 ---
 
