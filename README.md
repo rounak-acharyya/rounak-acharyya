@@ -22,7 +22,7 @@ My interests lie in:
 ## 🛠️ Tech Stack & Skills
 
 - **Data Science & ML**: Python, Pandas, NumPy, Scikit-Learn, NLP, Data Visualization
-- **Web Development**: Next.js, React, TypeScript, JavaScript, Tailwind CSS, REST APIs
+- **Web Development**: Node.js, React, TypeScript, JavaScript, Tailwind CSS, REST APIs
 - **Tools & Platforms**: Git, GitHub, Vercel, VS Code, LaTeX
 
 
